@@ -28,5 +28,5 @@ algorithm - algorithm to run
 4 - Chow Liu Trees with Random Forest
 
 Example:
-python hw_4.py -data_path "hw4-datasets/small-10-datasets" -dataset_name 'accidents' -algorithm 1
+python code.py -data_path "hw4-datasets/small-10-datasets" -dataset_name 'accidents' -algorithm 1
 
